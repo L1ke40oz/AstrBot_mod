@@ -1,0 +1,1 @@
+AstrBot-master\astrbot\core\platform\sources\wecom\wecom_adapter.py

@@ -1,0 +1,1 @@
+AstrBot-master\astrbot\core\platform\sources\weixin_oc\weixin_oc_adapter.py
